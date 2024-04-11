@@ -23,7 +23,7 @@ p{
     background-color: white;
     border-radius: 12px;
     border: solid 1px;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 1);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0);
     
 }
 .img{
